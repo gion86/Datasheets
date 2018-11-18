@@ -19,5 +19,6 @@ Main categories:
 * Relay
 * Resistor
 * RTC
+* Sensors
 * Shift_Register
 * Socket
